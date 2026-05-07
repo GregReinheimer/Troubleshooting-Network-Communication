@@ -10,3 +10,6 @@
 
 **Step 2: Use Powershell or Command Line on admin workstation and ping each computer on the floor.**
 
+
+![A2](A2.png)
+**Using the ping to the following ip addresses and found two workstations not connected to network. Lost 4 packets, 0 received.**
