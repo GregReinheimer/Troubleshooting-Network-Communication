@@ -5,7 +5,7 @@
 
 **Step 1: Verify Cisco switch ports**
 
-![A1]()
+![A1](https://github.com/user-attachments/assets/0bb31466-3522-4335-bb85-37c5a33ecce8)
 **Ports 1 and 3 show no blinking lights, therefore no network traffic activity. Trace the ports to the patch panel to identify the specific workstations. The two workstations not connected are the executive and office 1 machines.**
 
 **Step 2: Use Powershell or Command Line on admin workstation and ping each computer on the floor.**
