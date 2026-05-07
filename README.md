@@ -20,3 +20,12 @@
 **Step 3: Verify the admin workstation is connected to the network**
 
 
+
+![A3](A4.png)
+
+**On the back of the computer check the NIC link and lights to see if traffic is active over the network. This machine is connected and working properly.**
+
+
+![A4](
+
+
